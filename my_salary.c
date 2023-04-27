@@ -1,6 +1,4 @@
-# C_program_language
-
-´´´c
+//my_salary
 
 #include <stdio.h>
 #define TAX_RATE 0.2
